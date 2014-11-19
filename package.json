@@ -1,0 +1,19 @@
+{
+  "name": "genesis",
+  "version": "0.0.1",
+  "description": "Research poster generator from Markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/genesis/git"
+  },
+  "keywords": ["generator","poster","markdown"],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
