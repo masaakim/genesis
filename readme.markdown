@@ -10,6 +10,24 @@ $ npm install genesis
 
 ## Example
 
+Generate:
+
+```shell
+$ genesis your-markdown.md
+```
+
+## Options
+
+### -s (--size)
+Can chose poster size from 'A0', 'A1', 'A2', 'A3' and 'A4'. Default is 'A0'.
+
+```shell
+$ genesis your-markdown.md --size A0
+```
+
+### -t (--theme)
+Can chose some theme of poster
+
 ## License
 
 The MIT License (MIT)
