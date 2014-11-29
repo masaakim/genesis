@@ -19,14 +19,17 @@ $ genesis your-markdown.md
 ## Options
 
 ### -s (--size)
-Can chose poster size from 'A0', 'A1', 'A2', 'A3' and 'A4'. Default is 'A0'.
+Can choose poster size from 'A0', 'A1', 'A2', 'A3' and 'A4'. Default is 'A0'.
 
 ```shell
 $ genesis your-markdown.md --size A0
 ```
 
+### -d (--direction)
+Can choose poster direction from 'longitudinal' and 'lateral'. Default is 'longitudinal'.
+
 ### -t (--theme)
-Can chose some theme of poster
+Can choose some theme of poster
 
 ## License
 
