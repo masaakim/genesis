@@ -1,0 +1,6 @@
+{
+  "name": "genesis",
+  "dependencies": {
+    "genesis-style": "*"
+  }
+}
